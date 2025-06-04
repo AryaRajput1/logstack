@@ -7,12 +7,6 @@ body {
   /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, rgb(24, 24, 40), rgb(36, 31, 85), #0f0c29);
+  background: linear-gradient(to right, rgb(17, 17, 27), rgb(25, 23, 48), #0f0c29);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-
-.text-gradient {
-  background: linear-gradient(to right, #7e52ff, #b666c2, #ff379e);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }

@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Navbar = () => {
     return (
         <nav className="backdrop-blur-md shadow-sm">
